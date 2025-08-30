@@ -1,0 +1,1 @@
+rsync -avzP /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/precision-survey root@85.31.233.92:/var/www/wpclients.begunipik.com/wp-content/themes/precision-survey

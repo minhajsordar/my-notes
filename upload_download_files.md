@@ -1,0 +1,2 @@
+rsync -avzP /Applications/XAMPP/xamppfiles/htdocs/www_backup/payment.easyonwardticket.com/ root@194.238.22.209:/var/www/payment.easyonwardticket.com/
+rsync -avzP root@194.238.22.209:/var/www/payment.easyonwardticket.com/ /Applications/XAMPP/xamppfiles/htdocs/www_backup/payment.easyonwardticket.com/

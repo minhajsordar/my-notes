@@ -1,0 +1,5 @@
+mongosh --port 27017 --authenticationDatabase "admin" -u "noormohammad" -p "noor987789"
+mongosh --port 27017 --authenticationDatabase "proyojondb" -u "proyojon24" -p "proyojon24899877"
+proyojon24 db -> user:"proyojon24", pwd:"proyojon24899877"
+
+mongodb://proyojon24:proyojon24899877@127.0.0.1:27017/proyojondb
