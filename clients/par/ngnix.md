@@ -45,7 +45,7 @@ server {
 }
 ```
 
-ssadmin
+- ssadmin
 ```
 server {
     server_name ssadmin.easyonwardticket.com www.ssadmin.easyonwardticket.com;

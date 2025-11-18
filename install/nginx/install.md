@@ -1,4 +1,4 @@
-# install ngnex
+# install nginx
 
 sudo apt update
 sudo apt install nginx
@@ -11,8 +11,11 @@ nano defaults
 
 delete right after www
 
+### Test config
 sudo nginx -t
 
+### Start Nginx
 sudo systemctl start nginx
+### Restart Nginx
 sudo systemctl restart nginx
 

@@ -168,6 +168,7 @@ sudo certbot -d begunipik.com -d www.begunipik.com --nginx --agree-tos -m minhaj
 
 ### add ssl certificate for nginx
 sudo apt install certbot python3-certbot-nginx
+sudo certbot certonly --nginx -d softvasion.com -d www.softvasion.com
 sudo certbot certonly --nginx -d softrking.com -d www.softrking.com
 sudo certbot certonly --nginx -d softrking.com -d www.softrking.com --agree-tos -m minhajsorder8205@gmail.com --no-eff-email --redirect
 

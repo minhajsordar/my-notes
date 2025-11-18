@@ -1,7 +1,12 @@
 # MinhajSorder vps 
-dbOperationScript
 ssh root@212.85.24.184
 pass Minh@jS0rder8765
+
+# MinhajSorder vps  new
+ssh root@72.61.119.179
+pass Minh@jS0rder8765
+
+dbOperationScript
 mongodb user root
 mongodbpass Minh@jS0rder8765
 ~/actions-runner/expressapigen/api-builder-express/api-builder-express

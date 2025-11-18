@@ -15,6 +15,7 @@ rsync -avzP root@142.93.236.178:/var/www/admin_onwardticket/ ~/Downloads/www_bac
 
 rsync -avzP root@142.93.236.178:/var/www/ssadmin.easyonwardticket.com/ ~/Downloads/www_backup/ssadmin.easyonwardticket.com/
 
+
 ssadmin.easyonwardticket.com and payment.easyonwardticket.com
 
 
